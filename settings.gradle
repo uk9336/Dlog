@@ -1,0 +1,3 @@
+include ':Dlog'
+include ':app'
+rootProject.name = "LibraryDlog"
